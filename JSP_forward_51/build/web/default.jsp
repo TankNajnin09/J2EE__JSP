@@ -14,6 +14,6 @@
     <body>
     <h2>You like <%= request.getParameter("color") %>!</h2>
     <p>That's a nice color too 😊</p>
-    <a href="index.jsp">Go back</a>
+    <a href="index.html">Go back</a>
 </body>
 </html>

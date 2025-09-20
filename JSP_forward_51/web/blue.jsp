@@ -13,6 +13,6 @@
     </head>
     <body style="background-color: #ADD8E6;">
         <h2>Your favorite color is blue! 🎨</h2>
-        <a href="index.jsp">Go back</a>
+        <a href="index.html">Go back</a>
     </body>
 </html>
